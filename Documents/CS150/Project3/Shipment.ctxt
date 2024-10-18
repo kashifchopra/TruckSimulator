@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Shipment
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shipment\ here.\n\n\ @author\ kc\n\ @version\ 1\n
+comment1.params=size\ startLoc\ endLoc\ truck
+comment1.target=Shipment(int,\ Warehouse,\ Warehouse,\ Truck)
+numComments=2

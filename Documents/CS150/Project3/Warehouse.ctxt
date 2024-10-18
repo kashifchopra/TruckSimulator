@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Warehouse
+comment0.text=\n\ Write\ a\ description\ of\ class\ Warehouse\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Warehouse()
+comment2.params=numDocks\ warePosX\ warePosY
+comment2.target=Warehouse(int,\ int,\ int)
+comment3.params=numDocks\ totaltrucks\ warePosX\ warePosY
+comment3.target=Warehouse(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=boolean\ allcomplete()
+numComments=5
