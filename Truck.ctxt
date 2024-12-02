@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\n\ Write\ a\ description\ of\ class\ Truck\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=speed\ capacity\ truckPosX\ truckPosY\ dest
+comment1.target=Truck(int,\ int,\ double,\ double,\ Warehouse)
+comment10.params=warehouse
+comment10.target=boolean\ reached(Warehouse)
+comment10.text=\n\ checks\ if\ the\ truck\ reached\ the\ warehouse\ and\ then\ enqueues\ the\ truck\ into\ the\ warehouse\ queue\ (wareQ)\n
+comment2.params=
+comment2.target=void\ action()
+comment3.params=
+comment3.target=int\ log_status()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=shipment
+comment5.target=boolean\ load(Shipment)
+comment6.params=
+comment6.target=Shipment\ unload()
+comment7.params=warehouse
+comment7.target=void\ move(Warehouse)
+comment8.params=warehouse
+comment8.target=double\ getAngle(Warehouse)
+comment9.params=warehouse
+comment9.target=double\ dist(Warehouse)
+numComments=11

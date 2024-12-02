@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Schedule
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Schedule\ here.\n\n\ @author\ kc\n\ @version\ 1\n
+comment1.params=
+comment1.target=void\ action()
+comment2.params=
+comment2.target=int\ log_status()
+numComments=3

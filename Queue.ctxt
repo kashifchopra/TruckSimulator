@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\n\ \ class\ Queue\ using\ circular\ array\n\n\ @author\ kc\n\ @version\ 1\n
+comment1.params=capacity
+comment1.target=Queue(int)
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=item
+comment4.target=void\ enqueue(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ dequeue()
+numComments=6
